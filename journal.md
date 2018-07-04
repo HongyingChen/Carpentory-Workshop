@@ -1,8 +1,9 @@
 #Authors
 Hongying Chen
+JohnSmith
 
 #Titile
-A 4 to 6 GHz RRL Survey
+A 4 to 6 GHz RRL Survey with TMRT
 
 #Introductoin
 blablablabla
